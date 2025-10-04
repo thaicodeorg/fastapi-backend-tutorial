@@ -14,7 +14,8 @@ pip install fastapi uvicorn requests python-multipart
 ```
 
 2. code main.py
-```python title="main.py"
+
+```py linenums="1"
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 import requests
