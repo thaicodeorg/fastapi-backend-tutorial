@@ -2,7 +2,7 @@ site_name: FastAPI Backend
 site_url: https://github.com/fastapi-backend-tutorial
 theme:
   logo: assets/logo.png
-  name: material
+  name: dracula
   palette:
     primary: teal
   font:
