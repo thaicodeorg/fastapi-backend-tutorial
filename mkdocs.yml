@@ -1,0 +1,12 @@
+site_name: My Docs
+site_url: https://github.com/fask-api-tutorial
+theme:
+  name: material
+  font:
+    text: Roboto
+  language: en 
+extra:
+  version:
+    provider: mike
+
+
