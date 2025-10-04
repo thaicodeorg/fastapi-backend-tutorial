@@ -9,13 +9,14 @@ https://data.tmd.go.th/api/WeatherToday/V2/?uid=api&ukey=api12345&format=json
 
 
 1. ติดตั้ง Dependecies
+
 ```bash
 pip install fastapi uvicorn requests python-multipart
 ```
 
-2. code main.py
+2. code main.py  
 
-```py linenums="1"
+``` py linenums="1"
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 import requests
