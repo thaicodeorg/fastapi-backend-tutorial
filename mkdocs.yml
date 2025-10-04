@@ -1,5 +1,5 @@
-site_name: My Docs
-site_url: https://github.com/fask-api-tutorial
+site_name: FastAPI Backend
+site_url: https://github.com/fastapi-backend-tutorial
 theme:
   name: material
   font:
