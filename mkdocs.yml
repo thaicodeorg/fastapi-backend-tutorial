@@ -2,7 +2,7 @@ site_name: FastAPI Backend
 site_url: https://github.com/fastapi-backend-tutorial
 theme:
   logo: assets/logo.png
-  name: dracula
+  name: material
   palette:
     primary: teal
   font:
@@ -18,7 +18,7 @@ markdown_extensions:
   - admonition
   - pymdownx.highlight:
       anchor_linenums: true
-      line_spans: __span
+      line_spans: __spans
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
